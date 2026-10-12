@@ -1,0 +1,2 @@
+/* Shared suite foundations. Keep app-specific geometry in each app stylesheet. */
+:root{--paper:#f7f8f5;--surface:#fff;--inset:#eff2ec;--ink:#17221d;--muted:#4b5b52;--line:#d7dfd8;--control-line:#718176;--action:#006b50;--action-hover:#00513d;--accent:#d8f3a5;--forest:#253e2d;--error:#a12626;--warning:#775000;--focus:#1747c8;--radius-sm:8px;--radius-md:14px;--radius-lg:22px;--font:"Segoe UI Variable","Segoe UI",system-ui,sans-serif;--ease:cubic-bezier(.2,.7,.2,1);--shadow:0 20px 60px #19322412}
